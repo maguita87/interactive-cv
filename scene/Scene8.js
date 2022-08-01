@@ -35,7 +35,7 @@ class Scene8 extends Phaser.Scene {
 
     let url = "https://www.behance.net/magalimorales";
 
-    let portfolio = this.add.text(480, 560, "Mira mi portfolio aca", {
+    let portfolio = this.add.text(480, 560, "Check my portfolio here!", {
       fontSize: "25px",
       fill: "#fef9b5",
       fontFamily: "Bebas Neue",
